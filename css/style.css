@@ -1,0 +1,74 @@
+body {
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+
+.Navigator {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: "quicksand" sans-serif;
+    font-size: 27px;
+    font-weight: bold;
+
+
+
+h1,h
+
+}
+.img{
+    margin-left: 200px;
+
+}
+
+
+.no-underline {
+    text-decoration: none;
+    color: black;
+}
+
+
+.Lenten {
+    margin: 100px;
+    justify-content: center;
+    width: 80%;
+
+
+
+}
+
+button{ 
+    
+    font-size: xx-large;
+    border-radius: 40px;
+    height: 61px;
+    width: 250px;
+    margin-left: 190px;
+    margin-top: 25px;
+
+    
+
+}
+
+
+#Donate{
+    font-size: xx-large;
+    border-radius: 40px;
+    background-color: #b8084a;
+    height: 61px;
+    width: 190px;
+    text-align: center;
+    color: white;
+}
+
+h1,h3 {
+    color: white;
+    margin-left: 150px;
+
+}
